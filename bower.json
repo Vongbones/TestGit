@@ -1,0 +1,17 @@
+{
+  "name": "readjson",
+  "homepage": "https://github.com/Vongbones/TestGit",
+  "authors": [
+    "Vongbones <holojoe2011@hotmail.com>"
+  ],
+  "description": "read json file using AngularJS",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
